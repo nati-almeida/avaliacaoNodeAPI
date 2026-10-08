@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaonodeapi",
+  "version": "1.0.0",
+  "description": "avaliacao",
+  "homepage": "https://github.com/nati-almeida/avaliacaoNodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/nati-almeida/avaliacaoNodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nati-almeida/avaliacaoNodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "Natalia Almeida",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
